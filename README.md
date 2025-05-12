@@ -1,0 +1,2 @@
+# ROAD-ACCIDENT-TRENDS-IN-THE-UK-TECHNICAL-REPORT-FOR-2021-2022
+This report presents an analysis of road traffic accident data for the years 2021 and 2022 to understand casualty patterns, accident severity, contributing environmental conditions, and location-based insights. The goal is to provide data-driven recommendations for traffic authorities to reduce accident occurrences and casualty rates.
